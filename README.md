@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @biswajitnov29
+- 👋 Hi, I’m Biswajit Ganguly
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning AWS 
 - 💞️ I’m looking to collaborate on Front-end framework development
